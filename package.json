@@ -1,0 +1,19 @@
+{
+  "name": "expressplay",
+  "version": "0.0.1",
+  "description": "A ShiFuMi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-p-92/expressplay.git"
+  },
+  "author": "Matthieu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
