@@ -3,3 +3,7 @@ body{
   padding-top: 70px;
 }
 
+.btn.btn-primary {
+    margin-top:20px;
+    margin-bottom:20px;
+    }
